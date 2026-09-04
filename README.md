@@ -1,672 +1,353 @@
 <div align="center">
 
-# ⚡ Portfolio Website Template
+⚡ Portfolio Website Template
 
-### A modern, responsive & customizable portfolio website template for developers, students, designers and creators.
+A modern, responsive & fully customizable portfolio website template for developers, students, designers and creators.
 
-<br>
+<p>
+<a href="https://my-portfolio-gamma-roan-37.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-0A66C2?style=for-the-badge" alt="Live Demo"></a>
+<a href="https://github.com/oxanuragofficial/portfolio-website-template"><img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="Source Code"></a>
+</p>
 
-<a href="https://my-portfolio-gamma-roan-37.vercel.app/">
-  <img src="https://img.shields.io/badge/%E2%9A%A1%20LIVE%20DEMO-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
-</a>
-&nbsp;
-<a href="https://github.com/oxanuragofficial/my-portfolio">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BB%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
-</a>
-&nbsp;
-<a href="https://github.com/oxanuragofficial">
-  <img src="https://img.shields.io/badge/%F0%9F%91%A4%20CREATOR-0066FF?style=for-the-badge&logo=github&logoColor=white" alt="Creator">
-</a>
+<p>
+<img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Three.js-3D-black?style=for-the-badge&logo=three.js" alt="Three.js">
+<img src="https://img.shields.io/badge/Responsive-Design-00C853?style=for-the-badge" alt="Responsive">
+</p>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Three.js-3D-black?style=flat-square&logo=threedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/React%20Three%20Fiber-3D-00BFFF?style=flat-square">
-<img src="https://img.shields.io/badge/Responsive-Design-0066FF?style=flat-square">
+<p><strong>Fork it → Customize it → Deploy it → Make it yours 🚀</strong></p>
 
 </div>
-
----
 
 <div align="center">
 
-## 🌌 Build Your Digital Identity
+🌐 Live Preview
 
-**Don't build your portfolio from zero.**
+<a href="https://my-portfolio-gamma-roan-37.vercel.app/"><img src="https://img.shields.io/badge/🚀_Open_Live_Demo-View_Portfolio-00C853?style=for-the-badge" alt="Open Live Demo"></a>
 
-Use this template as a starting point, replace the default content with your own information, customize the design, add your projects and deploy your portfolio.
+<p>Explore the complete portfolio website before using the template.</p>
 
-
-USE TEMPLATE  →  CUSTOMIZE  →  TEST  →  DEPLOY  →  SHARE
 </div>
-✨ Why This Template?
 
-A portfolio is more than a collection of projects.
-
-It is your digital identity.
-
-This template provides a modern foundation that you can customize for your own personal brand without building the entire frontend from scratch.
-
-🎯 Designed For
-👨‍💻 Developers	🎓 Students	🎨 Designers
-Showcase skills & projects	Build your first portfolio	Present creative work
-🚀 Freelancers	🧑‍💼 Professionals	🛠️ Creators
-Attract potential clients	Build an online presence	Showcase digital work
-🚀 Live Demo
 <div align="center">
-Explore the template
-<a href="https://my-portfolio-gamma-roan-37.vercel.app/"> <img src="https://img.shields.io/badge/%E2%96%B6%20OPEN%20LIVE%20DEMO-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Live Demo"> </a>
 
-<br><br>
-
-Live Demo:
-
-https://my-portfolio-gamma-roan-37.vercel.app/
+📸 Preview
 
 </div>
-🎨 Features
-<table> <tr> <td width="50%">
-📱 Responsive
 
-Designed to work across desktop, laptop, tablet and mobile devices.
+<p align="center"><img src="assets/portfolio-preview.png" alt="Portfolio Website Preview" width="900"></p>
 
-</td> <td width="50%">
-⚡ Modern React
+<div align="center">
 
-Built with React for a component-based and maintainable architecture.
+✨ Features
 
-</td> </tr> <tr> <td>
-🌌 3D Background
+</div>
 
-Interactive particle-based 3D background powered by Three.js and React Three Fiber.
+📱 Fully Responsive — Desktop, tablet and mobile
 
-</td> <td>
-🎯 Project Showcase
+⚛️ React Based — Modern React component architecture
 
-Display your projects with descriptions, technologies and links.
+🎨 Modern Dark UI — Clean developer-focused design
 
-</td> </tr> <tr> <td>
-🧩 Easy Customization
+🌌 Interactive 3D Background — Three.js and React Three Fiber
 
-Replace personal information, projects, images, links and colors.
+💼 Project Showcase — Display projects, descriptions and links
 
-</td> <td>
-🎬 Smooth Animations
+👨‍💻 About Section — Add your profile, skills and experience
 
-Modern animations and interactive elements for a polished experience.
+📬 Contact Form — Web3Forms integration
 
-</td> </tr> <tr> <td>
-🔗 Social Integration
+🔗 Social Links — GitHub, LinkedIn and other platforms
 
-Add GitHub, LinkedIn, X and other professional profiles.
+✨ Smooth Animations — Modern transitions and interactions
 
-</td> <td>
-📧 Contact Form
+🔧 Easy Customization — Replace content and branding
 
-Includes a contact form with Web3Forms integration.
+🚀 Deployment Ready — Suitable for modern hosting platforms
 
-</td> </tr> <tr> <td>
-🔍 SEO Ready
+<div align="center">
 
-Customize page title, description and social sharing metadata.
+🛠️ Tech Stack
 
-</td> <td>
-🎨 Modern Dark UI
+Technology
 
-Customize colors, typography, backgrounds, cards and other visual elements.
+Purpose
 
-</td> </tr> </table>
-🧰 Technology Stack
+⚛️ React
 
-This template is built using:
+Frontend framework
 
-React
-   │
-   ├── Component-based UI
-   └── Application structure
-   │
-JavaScript
-   │
-   ├── Interactions
-   ├── Dynamic content
-   └── UI behavior
-   │
-Three.js
-   │
-   └── 3D graphics
-   │
-React Three Fiber
-   │
-   └── React-based 3D rendering
-   │
-CSS3
-   │
-   ├── Layout
-   ├── Responsive design
-   └── Visual styling
-   │
-Web3Forms
-   │
-   └── Contact form submission
-📦 Getting Started
-01 — Use This Template
+🟨 JavaScript
 
-You can create your own portfolio from this repository.
+Application logic
 
-On GitHub:
+🌌 Three.js
 
-Use this template → Create a new repository
+3D graphics
 
-You can also fork the repository if you want to contribute changes back to the original project.
+🔷 React Three Fiber
 
-02 — Clone Your Repository
+React integration for Three.js
 
-Clone your new repository:
+🎨 CSS3
+
+Styling and responsive design
+
+📩 Web3Forms
+
+Contact form handling
+
+</div>
+
+<div align="center">
+
+🚀 Getting Started
+
+Follow these simple steps to create your own portfolio.
+
+</div>
+
+1️⃣ Use This Template
+
+<div align="center"><a href="https://github.com/oxanuragofficial/portfolio-website-template"><img src="https://img.shields.io/badge/📦_Use_This_Template-GitHub-181717?style=for-the-badge&logo=github" alt="Use This Template"></a></div>
+
+2️⃣ Clone Your Repository
 
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+cd YOUR-REPOSITORY
 
-Example:
-
-git clone https://github.com/john-doe/my-portfolio.git
-
-Enter the project:
-
-cd my-portfolio
-03 — Install Dependencies
-
-Make sure you have Node.js installed.
-
-Then run:
+3️⃣ Install Dependencies
 
 npm install
-04 — Start the Development Server
 
-Run:
+4️⃣ Start the Development Server
 
 npm start
 
-The application will normally be available at:
+Open http://localhost:3000 in your browser.
 
-http://localhost:3000
-👤 Customize Your Portfolio
+5️⃣ Customize Your Portfolio
 
-The template is designed to be easy to modify.
+Update your name, role, description, about section, skills, projects, email, location, social links and images.
 
-Update:
+6️⃣ Test Your Website
 
-Your Name
-Your Introduction
-Your Bio
-Your Education
-Your Experience
-Your Skills
-Your Projects
-Your Email
-Your Location
-Your GitHub
-Your LinkedIn
-Your Social Links
+Check desktop, tablet, mobile, navigation, links, contact form, animations and images.
 
-Look through the components inside:
+7️⃣ Build the Project
 
-src/
-└── components/
+npm run build
 
-Replace the example content with your own information.
+8️⃣ Deploy Your Portfolio
 
-⚠️ Don't fake your skills
+Deploy the production build using your preferred hosting platform.
 
-Only list technologies that you actually know.
+<div align="center">
 
-For example:
+🎨 Customization Guide
 
-HTML
-CSS
-JavaScript
-React
-Java
-C++
-Git
-GitHub
+</div>
 
-Do not add technologies simply because they look impressive.
+👤 Personal Information
 
-Your portfolio should represent your actual abilities.
+Customize your name, role, location, email, about, skills and experience inside the relevant React components.
 
-🖼️ Replace Images
+💼 Projects
 
-Project and profile images are stored inside the public assets.
+Add project name, description, technologies, GitHub URL, live demo URL and project image.
 
-Check:
+🖼️ Images
 
-public/
-└── images/
+Place your images inside public/images/.
 
-Replace the existing images with your own.
+🔗 Social Media
 
-Recommended formats
-.webp
-.png
-.jpg
-.svg
+Replace the example GitHub, LinkedIn, X/Twitter and other social links with your own.
 
-For large photographs and screenshots, WebP is recommended because it can reduce image size.
+<div align="center">
 
-💻 Add Your Projects
+📩 Contact Form Setup
 
-Find the projects section inside the React components.
+</div>
 
-Replace the example projects with your own.
+This template uses Web3Forms for the contact form.
 
-A good project entry should contain:
+1️⃣ Create Your Access Key
 
-Project Name
-Description
-Technologies
-Key Features
-GitHub Repository
-Live Demo
-Project Image
+Create your own Web3Forms access key.
 
-Example:
+2️⃣ Create .env
 
-Project: E-Commerce Website
-
-Description:
-A responsive e-commerce website for browsing products,
-managing a shopping cart and placing orders.
-
-Technologies:
-React
-Node.js
-Express
-MongoDB
-
-GitHub:
-https://github.com/YOUR-USERNAME/project
-
-Live Demo:
-https://your-project.vercel.app/
-💡 Tip
-
-Put your strongest projects first.
-
-Quality is more important than quantity.
-
-🧠 Customize Your Skills
-
-Replace the default technologies with technologies you actually use.
-
-Example:
-
-Frontend
-├── HTML
-├── CSS
-├── JavaScript
-└── React
-
-Backend
-├── Node.js
-└── Express
-
-Languages
-├── Java
-├── C++
-└── JavaScript
-
-Tools
-├── Git
-└── GitHub
-
-Organize the skills according to your own experience.
-
-🔗 Update Social Links
-
-Replace all placeholder URLs.
-
-Example:
-
-https://github.com/YOUR-USERNAME
-
-https://www.linkedin.com/in/YOUR-USERNAME/
-
-https://x.com/YOUR-USERNAME
-
-Only add social profiles that you actually use.
-
-You can include:
-
-GitHub
-LinkedIn
-X
-YouTube
-Dev.to
-Instagram
-Email
-Personal Website
-📧 Configure the Contact Form
-
-This template uses Web3Forms for contact form submissions.
-
-The API key should be stored in an environment variable.
-
-Create a .env file in the project root:
+Create .env in the project root beside package.json:
 
 REACT_APP_WEB3FORMS_ACCESS_KEY=YOUR_WEB3FORMS_ACCESS_KEY
 
-Do not commit your .env file to GitHub.
-
-Create a .env.example file instead:
-
-REACT_APP_WEB3FORMS_ACCESS_KEY=YOUR_WEB3FORMS_ACCESS_KEY
-Important
-
-Each person using this template should create and use their own Web3Forms Access Key.
-
-Never publish your actual key inside the repository.
-
-After changing .env, restart the development server:
+3️⃣ Restart the Development Server
 
 npm start
-🎨 Customize the Design
 
-Make the template your own.
+⚠️ Never commit your actual .env file to GitHub. Use .env.example as the reference.
 
-You can customize:
+<div align="center">
 
-Colors
-Typography
-Background
-Cards
-Buttons
-Icons
-Animations
-Spacing
-Borders
-Shadows
-Section layout
+🎨 Design Customization
 
-For example:
+</div>
 
-:root {
-  --primary-color: #6366f1;
-  --secondary-color: #00bfff;
-  --background-color: #050505;
-  --surface-color: #0b0f14;
-  --text-color: #ffffff;
-  --muted-color: #8b949e;
-}
+Customize colors, backgrounds, text, accents, borders, shadows, spacing and typography through the project CSS.
 
-Create your own visual identity instead of leaving the default design unchanged.
+<div align="center">
 
-🌌 Customize the 3D Background
+🌌 3D Background
 
-The interactive background is powered by React Three Fiber.
+</div>
 
-The main configuration can be found in:
+The Hero section uses Three.js and React Three Fiber. You can customize particle count, size, speed, camera settings, animation behavior and background appearance.
 
-src/App.js
+<div align="center">
 
-You can adjust properties such as:
+🔍 SEO & Metadata
 
-Particle count
-Particle size
-Ring radius
-Magnet radius
-Wave amplitude
-Animation
-Particle shape
-Color
+</div>
 
-Example:
+Update public/index.html with your page title, meta description, keywords, author information, Open Graph metadata and favicon.
 
-<Antigravity
-  magnetRadius={14}
-  ringRadius={12}
-  waveAmplitude={1.6}
-  particleSize={1.3}
-  count={700}
-  color="#6366f1"
-  autoAnimate={true}
-/>
+<div align="center">
 
-Experiment carefully because increasing particle counts can affect performance on lower-end devices.
+📁 Project Structure
 
-🔍 Configure SEO
+</div>
 
-Update the metadata inside:
-
-public/index.html
-
-Example:
-
-<title>Your Name | Portfolio</title>
-
-<meta
-  name="description"
-  content="Portfolio of Your Name — projects, skills, experience and contact information."
->
-
-Also update:
-
-Open Graph title
-Open Graph description
-Open Graph image
-Twitter metadata
-Canonical URL
-Author
-Keywords
-
-Do not leave the template's default personal information in your production website.
-
-📱 Test Responsive Design
-
-Before deployment, test the website at different screen sizes:
-
-320px
-375px
-390px
-768px
-1024px
-1440px
-
-In Chrome:
-
-F12
-→ Toggle Device Toolbar
-
-Check:
-
-Navigation
-Buttons
-Text
-Images
-Project cards
-Contact form
-Spacing
-Animations
-3D background
-❌ Avoid
-Horizontal scrolling
-Broken images
-Tiny text
-Overlapping elements
-Unclickable buttons
-Overflowing content
-Slow animations
-🏗️ Project Structure
-portfolio/
+portfolio-website-template/
 │
 ├── public/
 │   ├── images/
-│   ├── index.html
-│   ├── manifest.json
-│   └── robots.txt
+│   ├── favicon.ico
+│   └── index.html
 │
 ├── src/
 │   ├── components/
-│   │   ├── Header.js
-│   │   ├── Hero.js
 │   │   ├── About.js
-│   │   ├── TechSkills.js
-│   │   ├── Experience.js
-│   │   ├── Projects.js
 │   │   ├── Contact.js
-│   │   └── Footer.js
+│   │   ├── Footer.js
+│   │   ├── Hero.js
+│   │   ├── Navbar.js
+│   │   └── Projects.js
 │   │
 │   ├── App.js
 │   ├── App.css
 │   └── index.js
 │
-├── .gitignore
 ├── .env.example
+├── .gitignore
 ├── package.json
 ├── package-lock.json
 └── README.md
-🚀 Build for Production
 
-Create a production build:
+<div align="center">
 
+📱 Responsive Design
+
+</div>
+
+Designed for 🖥️ desktop, 💻 laptop, 📟 tablet and 📱 mobile screens. Always test your customized portfolio on multiple screen sizes.
+
+<div align="center">
+
+🧪 Development
+
+</div>
+
+npm start
 npm run build
 
-The optimized production files will be generated inside:
+The production files are generated inside build/.
 
-build/
+<div align="center">
 
-You can deploy the generated application using a suitable hosting provider.
+🚀 Deployment
 
-🌐 Deployment
+Choose your preferred hosting platform.
 
-This React application can be deployed using platforms such as:
+<a href="https://vercel.com/"><img src="https://img.shields.io/badge/▲_Deploy_with-Vercel-000000?style=for-the-badge&logo=vercel" alt="Deploy with Vercel"></a>
+<a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/Deploy_with-Netlify-00C7B7?style=for-the-badge&logo=netlify" alt="Deploy with Netlify"></a>
 
-🟣 Vercel
+</div>
 
-A convenient option for React applications and automatic Git deployments.
-
-🟢 Netlify
-
-Another popular option for frontend applications.
-
-⚫ GitHub Pages
-
-Can also be used with an appropriate React deployment configuration.
-
-Choose the platform that works best for your project.
-
-🔄 Update Your Portfolio
-
-After making changes:
-
-git add .
-
-Create a commit:
-
-git commit -m "Customize portfolio"
-
-Push your changes:
-
-git push origin main
-
-If your repository is connected to an automatic deployment platform, the new version can be deployed automatically.
+<div align="center">
 
 🤝 Contributing
 
-Contributions and improvements are welcome.
+</div>
 
-Workflow
+Contributions are welcome. You can report bugs, suggest improvements, add features, improve UI/UX, documentation or performance.
 
-Create a branch:
+Contribution Steps
 
-git checkout -b feature/improvement
-
-Make your changes and commit:
-
+# 1. Fork the repository
+# 2. Clone your fork
+git clone https://github.com/YOUR-USERNAME/portfolio-website-template.git
+# 3. Create a branch
+git checkout -b feature/your-feature
+# 4. Make your changes
+# 5. Commit your changes
 git add .
+git commit -m "feat: add your feature"
+# 6. Push your branch
+git push origin feature/your-feature
+# 7. Open a Pull Request
 
-git commit -m "Improve portfolio"
+<div align="center">
 
-Push your branch:
+🔐 Security & Privacy
 
-git push origin feature/improvement
+</div>
 
-Then open a Pull Request.
+Do not commit API keys or private credentials.
 
-⚠️ Important Notes
+Keep .env out of Git.
 
-This project is a portfolio template and learning resource.
+Use .env.example for environment variable documentation.
 
-Before publishing your own version:
+Review third-party services before using them.
 
-Replace the original content.
-Replace personal information.
-Replace images.
-Update project links.
-Update social links.
-Configure your own contact form.
-Test every section.
-Test mobile responsiveness.
-Check third-party assets and licenses.
-Remove unused content.
-🔐 Privacy & Security
+Replace example contact information before deployment.
 
-Never place sensitive information inside frontend source code.
-
-Do not commit:
-
-Passwords
-API Keys
-Private Tokens
-Secret Credentials
-Private Documents
-
-Remember:
-
-Anything shipped to the browser should be considered publicly accessible.
-
-Environment variables help prevent accidentally committing configuration to Git, but frontend environment variables are not secret once included in the browser bundle.
+<div align="center">
 
 📄 License
 
-This project is open source.
+</div>
 
-See the repository's LICENSE file for the complete license terms.
+This project is open source and available under the MIT License. See the LICENSE file for complete terms.
 
-Third-party libraries, fonts, icons, images and other assets may have their own licenses.
-
-Always review the applicable licenses before redistributing third-party content.
+<div align="center">
 
 ⭐ Support the Project
 
-If you find this template useful:
+If this portfolio template helped you, consider giving the repository a ⭐ star.
 
-⭐ Star the repository
+<br>
+<a href="https://github.com/oxanuragofficial/portfolio-website-template"><img src="https://img.shields.io/badge/⭐_Star_on_GitHub-Support_the_Project-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star on GitHub"></a>
 
-🍴 Fork or use the template
-
-🔧 Customize it
-
-🚀 Build your portfolio
-
-📢 Share your finished website
+</div>
 
 <div align="center">
-⚡ Build. Customize. Deploy.
-Your portfolio should represent you, not the template.
-<br> <a href="https://my-portfolio-gamma-roan-37.vercel.app/"> <img src="https://img.shields.io/badge/%E2%9A%A1%20VIEW%20LIVE%20DEMO-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Live Demo"> </a>
+
+🌟 Use This Template
+
+Build your own professional portfolio in less time.
+
+<p><strong>Fork it → Customize it → Deploy it → Make it yours 🚀</strong></p>
+
+<a href="https://github.com/oxanuragofficial/portfolio-website-template"><img src="https://img.shields.io/badge/🚀_Get_Started-Use_This_Template-0A66C2?style=for-the-badge" alt="Get Started"></a>
 
 <br><br>
 
-<a href="https://github.com/oxanuragofficial/my-portfolio"> <img src="https://img.shields.io/badge/%F0%9F%92%BB%20VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Source"> </a>
+Made with ❤️ for the developer community
 
-<br><br>
+<br>
+<strong>Created by <a href="https://github.com/oxanuragofficial">@oxanuragofficial</a></strong>
 
-Created by
-<a href="https://github.com/oxanuragofficial"> <img src="https://img.shields.io/badge/%40oxanuragofficial-Follow%20on%20GitHub-0066FF?style=for-the-badge&logo=github&logoColor=white" alt="oxanuragofficial"> </a>
-
-<br><br>
-
-Use it → Make it yours → Ship it 🚀
-
-</div> 
+</div>
