@@ -1,8 +1,8 @@
 <div align="center">
 
-# ⚡ Personal Portfolio Website
+# ⚡ Portfolio Website Template
 
-### A modern, responsive & fully customizable portfolio template for developers, students, designers and creators.
+### A modern, responsive & customizable portfolio website template for developers, students, designers and creators.
 
 <br>
 
@@ -20,11 +20,11 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Responsive-Design-00BFFF?style=flat-square">
-<img src="https://img.shields.io/badge/GitHub-Pages-181717?style=flat-square&logo=github">
+<img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Three.js-3D-black?style=flat-square&logo=threedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/React%20Three%20Fiber-3D-00BFFF?style=flat-square">
+<img src="https://img.shields.io/badge/Responsive-Design-0066FF?style=flat-square">
 
 </div>
 
@@ -34,214 +34,168 @@
 
 ## 🌌 Build Your Digital Identity
 
-**Don't start your portfolio from zero.**
+**Don't build your portfolio from zero.**
 
-Fork this project, replace the content with your own information, customize the design, add your projects, and deploy your personal portfolio.
+Use this template as a starting point, replace the default content with your own information, customize the design, add your projects and deploy your portfolio.
 
 ```text
-FORK  →  CUSTOMIZE  →  TEST  →  DEPLOY  →  SHARE
-```
-
+USE TEMPLATE  →  CUSTOMIZE  →  TEST  →  DEPLOY  →  SHARE
 </div>
+✨ Why This Template?
 
----
+A portfolio is more than a collection of projects.
 
-## ✨ Why This Template?
+It is your digital identity.
 
-Your portfolio is more than a collection of projects.
+This template provides a modern foundation that you can customize for your own personal brand without building the entire frontend from scratch.
 
-It is your **digital identity**.
-
-This template provides a clean foundation that you can transform into your own professional website without rebuilding the entire frontend from scratch.
-
-### 🎯 Designed For
-
-|      👨‍💻 Developers      |         🎓 Students        |      🎨 Designers     |
-| :------------------------: | :------------------------: | :-------------------: |
-| Showcase skills & projects | Build your first portfolio | Present creative work |
-
-|       🚀 Freelancers      |    🧑‍💼 Professionals   |      🛠️ Creators     |
-| :-----------------------: | :----------------------: | :-------------------: |
-| Attract potential clients | Build an online presence | Showcase digital work |
-
----
-
-# 🚀 Live Preview
-
+🎯 Designed For
+👨‍💻 Developers	🎓 Students	🎨 Designers
+Showcase skills & projects	Build your first portfolio	Present creative work
+🚀 Freelancers	🧑‍💼 Professionals	🛠️ Creators
+Attract potential clients	Build an online presence	Showcase digital work
+🚀 Live Demo
 <div align="center">
-
-### Explore the original implementation
-
-<a href="https://bharatwebstudioproject.github.io/portfolio-design/">
-
-<img src="https://img.shields.io/badge/%E2%96%B6%20OPEN%20LIVE%20PORTFOLIO-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Live Portfolio">
-
-</a>
+Explore the template
+<a href="https://my-portfolio-gamma-roan-37.vercel.app/"> <img src="https://img.shields.io/badge/%E2%96%B6%20OPEN%20LIVE%20DEMO-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Live Demo"> </a>
 
 <br><br>
 
-**Live:**
-`https://bharatwebstudioproject.github.io/portfolio-design/`
+Live Demo:
+
+https://my-portfolio-gamma-roan-37.vercel.app/
 
 </div>
+🎨 Features
+<table> <tr> <td width="50%">
+📱 Responsive
 
----
+Designed to work across desktop, laptop, tablet and mobile devices.
 
-# 🎨 Features
+</td> <td width="50%">
+⚡ Modern React
 
-<table>
-<tr>
-<td width="50%">
+Built with React for a component-based and maintainable architecture.
 
-### 📱 Responsive
+</td> </tr> <tr> <td>
+🌌 3D Background
 
-Works across desktop, laptop, tablet and mobile devices.
+Interactive particle-based 3D background powered by Three.js and React Three Fiber.
 
-</td>
-<td width="50%">
+</td> <td>
+🎯 Project Showcase
 
-### ⚡ Lightweight
+Display your projects with descriptions, technologies and links.
 
-Simple frontend architecture without unnecessary dependencies.
+</td> </tr> <tr> <td>
+🧩 Easy Customization
 
-</td>
-</tr>
+Replace personal information, projects, images, links and colors.
 
-<tr>
-<td>
+</td> <td>
+🎬 Smooth Animations
 
-### 🎯 Project Showcase
+Modern animations and interactive elements for a polished experience.
 
-Present your best projects with descriptions, screenshots and links.
+</td> </tr> <tr> <td>
+🔗 Social Integration
 
-</td>
-<td>
+Add GitHub, LinkedIn, X and other professional profiles.
 
-### 🧩 Easy Customization
+</td> <td>
+📧 Contact Form
 
-Replace personal information, projects, images and colors easily.
+Includes a contact form with Web3Forms integration.
 
-</td>
-</tr>
+</td> </tr> <tr> <td>
+🔍 SEO Ready
 
-<tr>
-<td>
+Customize page title, description and social sharing metadata.
 
-### 🔗 Social Integration
+</td> <td>
+🎨 Modern Dark UI
 
-Add GitHub, LinkedIn and other professional profiles.
+Customize colors, typography, backgrounds, cards and other visual elements.
 
-</td>
-<td>
+</td> </tr> </table>
+🧰 Technology Stack
 
-### 🌐 GitHub Pages Ready
+This template is built using:
 
-Deploy your static portfolio directly through GitHub Pages.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🔍 SEO Ready
-
-Customize title, description and social sharing metadata.
-
-</td>
-<td>
-
-### 🎨 Modern UI
-
-Customize colors, typography, animations and layout.
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧰 Technology
-
-This template uses straightforward web technologies:
-
-```text
-HTML5
+React
    │
-   ├── Structure
-   │
-CSS3
-   │
-   ├── Layout
-   ├── Responsive Design
-   └── Visual Styling
+   ├── Component-based UI
+   └── Application structure
    │
 JavaScript
    │
    ├── Interactions
-   ├── Dynamic Elements
-   └── UI Behavior
+   ├── Dynamic content
+   └── UI behavior
    │
-GitHub Pages
+Three.js
    │
-   └── Deployment
-```
+   └── 3D graphics
+   │
+React Three Fiber
+   │
+   └── React-based 3D rendering
+   │
+CSS3
+   │
+   ├── Layout
+   ├── Responsive design
+   └── Visual styling
+   │
+Web3Forms
+   │
+   └── Contact form submission
+📦 Getting Started
+01 — Use This Template
 
----
+You can create your own portfolio from this repository.
 
-# 🛠️ Create Your Own Portfolio
+On GitHub:
 
-## 01 — Fork the Repository
+Use this template → Create a new repository
 
-Open the repository and click:
+You can also fork the repository if you want to contribute changes back to the original project.
 
-**Fork → Create Fork**
+02 — Clone Your Repository
 
-You now have your own copy that you can modify without changing the original project.
+Clone your new repository:
 
----
-
-## 02 — Clone Your Fork
-
-Copy your repository URL and run:
-
-```bash
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-```
 
 Example:
 
-```bash
 git clone https://github.com/john-doe/my-portfolio.git
-```
 
 Enter the project:
 
-```bash
 cd my-portfolio
-```
+03 — Install Dependencies
 
----
+Make sure you have Node.js installed.
 
-## 03 — Open in Your Code Editor
+Then run:
 
-For VS Code:
+npm install
+04 — Start the Development Server
 
-```bash
-code .
-```
+Run:
 
-Or open the folder manually in your preferred editor.
+npm start
 
----
+The application will normally be available at:
 
-# 👤 04 — Replace Personal Information
+http://localhost:3000
+👤 Customize Your Portfolio
 
-Find the existing portfolio information and replace it with yours.
+The template is designed to be easy to modify.
 
 Update:
 
-```text
 Your Name
 Your Introduction
 Your Bio
@@ -250,216 +204,178 @@ Your Experience
 Your Skills
 Your Projects
 Your Email
+Your Location
 Your GitHub
 Your LinkedIn
 Your Social Links
-```
 
-Example:
+Look through the components inside:
 
-```html
-<h1>Your Name</h1>
+src/
+└── components/
 
-<p>
-  Computer Science student building modern web applications.
-</p>
-```
+Replace the example content with your own information.
 
-Replace it with your actual information.
+⚠️ Don't fake your skills
 
-### ⚠️ Don't fake your skills.
+Only list technologies that you actually know.
 
-If you know HTML, CSS and JavaScript, list those.
+For example:
 
-Don't add React, Node.js, AWS, Docker and Kubernetes just because they look good on a portfolio.
-
----
-
-# 🖼️ 05 — Replace Images
-
-Locate the assets directory:
-
-```text
-assets/
-├── profile.webp
-├── project-1.webp
-├── project-2.webp
-├── project-3.webp
-└── ...
-```
-
-Replace the existing images with your own.
-
-### Recommended Sizes
-
-| Asset              | Recommended |
-| ------------------ | ----------: |
-| Profile image      |   500 × 500 |
-| Project screenshot |  1200 × 750 |
-| Hero/background    | 1920 × 1080 |
-| Logo               |   SVG / PNG |
-
-### Recommended formats
-
-```text
-.webp
-.svg
-.png
-```
-
-Prefer WebP for large photographs and screenshots to reduce page size.
-
----
-
-# 💻 06 — Add Your Projects
-
-Find the project section and replace the existing examples.
-
-Example:
-
-```html
-<div class="project-card">
-
-  <img
-    src="assets/project-1.webp"
-    alt="My Project"
-  >
-
-  <h3>My Project</h3>
-
-  <p>
-    A responsive web application built using HTML, CSS and JavaScript.
-  </p>
-
-  <div class="project-links">
-
-    <a href="https://github.com/YOUR-USERNAME/project">
-      GitHub
-    </a>
-
-    <a href="https://your-project.vercel.app/">
-      Live Demo
-    </a>
-
-  </div>
-
-</div>
-```
-
-Add your strongest projects first.
-
-### Good project information includes:
-
-```text
-Project Name
-Problem Solved
-Technology Used
-Key Features
-GitHub Repository
-Live Demo
-Screenshot
-```
-
----
-
-# 🧠 07 — Customize Your Skills
-
-Replace the example technologies with technologies you actually use.
-
-Example:
-
-```text
 HTML
 CSS
 JavaScript
 React
-Node.js
-Git
-GitHub
-Python
 Java
 C++
-```
+Git
+GitHub
 
-Organize them into categories if your design supports it:
+Do not add technologies simply because they look impressive.
 
-```text
-Frontend
-Backend
-Languages
-Tools
-Database
-Other
-```
+Your portfolio should represent your actual abilities.
 
----
+🖼️ Replace Images
 
-# 🔗 08 — Update Social Links
+Project and profile images are stored inside the public assets.
 
-Replace all existing social URLs.
+Check:
+
+public/
+└── images/
+
+Replace the existing images with your own.
+
+Recommended formats
+.webp
+.png
+.jpg
+.svg
+
+For large photographs and screenshots, WebP is recommended because it can reduce image size.
+
+💻 Add Your Projects
+
+Find the projects section inside the React components.
+
+Replace the example projects with your own.
+
+A good project entry should contain:
+
+Project Name
+Description
+Technologies
+Key Features
+GitHub Repository
+Live Demo
+Project Image
 
 Example:
 
-```html
-<a href="https://github.com/YOUR-USERNAME">
-  GitHub
-</a>
+Project: E-Commerce Website
 
-<a href="https://www.linkedin.com/in/YOUR-USERNAME/">
-  LinkedIn
-</a>
-```
+Description:
+A responsive e-commerce website for browsing products,
+managing a shopping cart and placing orders.
+
+Technologies:
+React
+Node.js
+Express
+MongoDB
+
+GitHub:
+https://github.com/YOUR-USERNAME/project
+
+Live Demo:
+https://your-project.vercel.app/
+💡 Tip
+
+Put your strongest projects first.
+
+Quality is more important than quantity.
+
+🧠 Customize Your Skills
+
+Replace the default technologies with technologies you actually use.
+
+Example:
+
+Frontend
+├── HTML
+├── CSS
+├── JavaScript
+└── React
+
+Backend
+├── Node.js
+└── Express
+
+Languages
+├── Java
+├── C++
+└── JavaScript
+
+Tools
+├── Git
+└── GitHub
+
+Organize the skills according to your own experience.
+
+🔗 Update Social Links
+
+Replace all placeholder URLs.
+
+Example:
+
+https://github.com/YOUR-USERNAME
+
+https://www.linkedin.com/in/YOUR-USERNAME/
+
+https://x.com/YOUR-USERNAME
+
+Only add social profiles that you actually use.
 
 You can include:
 
-* GitHub
-* LinkedIn
-* X
-* Instagram
-* YouTube
-* Dev.to
-* Email
-* Personal Website
-
-Only include profiles that you actually use.
-
----
-
-# 📧 09 — Configure Contact Information
-
-Replace:
-
-```text
-yourname@example.com
-```
-
-with your actual professional email.
-
-Update:
-
-```text
-Email
 GitHub
 LinkedIn
-Location
-Contact links
-```
+X
+YouTube
+Dev.to
+Instagram
+Email
+Personal Website
+📧 Configure the Contact Form
 
-### Contact forms
+This template uses Web3Forms for contact form submissions.
 
-If the template contains a contact form, verify that the form actually sends messages before publishing it.
+The API key should be stored in an environment variable.
 
-A beautiful contact form that doesn't work is worse than having no form.
+Create a .env file in the project root:
 
----
+REACT_APP_WEB3FORMS_ACCESS_KEY=YOUR_WEB3FORMS_ACCESS_KEY
 
-# 🎨 10 — Make It Yours
+Do not commit your .env file to GitHub.
 
-This is where you stop having a copy and start having **your portfolio**.
+Create a .env.example file instead:
 
-Customize:
+REACT_APP_WEB3FORMS_ACCESS_KEY=YOUR_WEB3FORMS_ACCESS_KEY
+Important
 
-```text
+Each person using this template should create and use their own Web3Forms Access Key.
+
+Never publish your actual key inside the repository.
+
+After changing .env, restart the development server:
+
+npm start
+🎨 Customize the Design
+
+Make the template your own.
+
+You can customize:
+
 Colors
 Typography
 Background
@@ -470,366 +386,287 @@ Animations
 Spacing
 Borders
 Shadows
-Section order
-```
+Section layout
 
 For example:
 
-```css
 :root {
-  --primary-color: #00bfff;
-  --secondary-color: #0066ff;
+  --primary-color: #6366f1;
+  --secondary-color: #00bfff;
   --background-color: #050505;
   --surface-color: #0b0f14;
   --text-color: #ffffff;
   --muted-color: #8b949e;
 }
-```
 
-Create your own visual identity instead of leaving the default theme unchanged.
+Create your own visual identity instead of leaving the default design unchanged.
 
----
+🌌 Customize the 3D Background
 
-# 📱 11 — Test Responsive Design
+The interactive background is powered by React Three Fiber.
 
-Before deployment, test:
+The main configuration can be found in:
 
-```text
+src/App.js
+
+You can adjust properties such as:
+
+Particle count
+Particle size
+Ring radius
+Magnet radius
+Wave amplitude
+Animation
+Particle shape
+Color
+
+Example:
+
+<Antigravity
+  magnetRadius={14}
+  ringRadius={12}
+  waveAmplitude={1.6}
+  particleSize={1.3}
+  count={700}
+  color="#6366f1"
+  autoAnimate={true}
+/>
+
+Experiment carefully because increasing particle counts can affect performance on lower-end devices.
+
+🔍 Configure SEO
+
+Update the metadata inside:
+
+public/index.html
+
+Example:
+
+<title>Your Name | Portfolio</title>
+
+<meta
+  name="description"
+  content="Portfolio of Your Name — projects, skills, experience and contact information."
+>
+
+Also update:
+
+Open Graph title
+Open Graph description
+Open Graph image
+Twitter metadata
+Canonical URL
+Author
+Keywords
+
+Do not leave the template's default personal information in your production website.
+
+📱 Test Responsive Design
+
+Before deployment, test the website at different screen sizes:
+
 320px
 375px
 390px
 768px
 1024px
 1440px
-```
 
 In Chrome:
 
-```text
 F12
 → Toggle Device Toolbar
-```
 
 Check:
 
-* Navigation
-* Buttons
-* Text
-* Images
-* Project cards
-* Forms
-* Spacing
-* Animations
-* Overflow
-
-### ❌ Avoid
-
-```text
+Navigation
+Buttons
+Text
+Images
+Project cards
+Contact form
+Spacing
+Animations
+3D background
+❌ Avoid
 Horizontal scrolling
 Broken images
 Tiny text
-Overlapping cards
+Overlapping elements
 Unclickable buttons
-Overflowing code
-```
+Overflowing content
+Slow animations
+🏗️ Project Structure
+portfolio/
+│
+├── public/
+│   ├── images/
+│   ├── index.html
+│   ├── manifest.json
+│   └── robots.txt
+│
+├── src/
+│   ├── components/
+│   │   ├── Header.js
+│   │   ├── Hero.js
+│   │   ├── About.js
+│   │   ├── TechSkills.js
+│   │   ├── Experience.js
+│   │   ├── Projects.js
+│   │   ├── Contact.js
+│   │   └── Footer.js
+│   │
+│   ├── App.js
+│   ├── App.css
+│   └── index.js
+│
+├── .gitignore
+├── .env.example
+├── package.json
+├── package-lock.json
+└── README.md
+🚀 Build for Production
 
----
+Create a production build:
 
-# 🔍 12 — Configure SEO
+npm run build
 
-Update:
+The optimized production files will be generated inside:
 
-```html
-<title>Your Name | Portfolio</title>
-```
+build/
 
-Add:
+You can deploy the generated application using a suitable hosting provider.
 
-```html
-<meta
-  name="description"
-  content="Portfolio of Your Name — projects, skills, experience and contact information."
->
-```
+🌐 Deployment
 
-Also configure Open Graph metadata:
+This React application can be deployed using platforms such as:
 
-```html
-<meta property="og:title" content="Your Name | Portfolio">
+🟣 Vercel
 
-<meta
-  property="og:description"
-  content="Explore my projects, skills and experience."
->
+A convenient option for React applications and automatic Git deployments.
 
-<meta
-  property="og:image"
-  content="assets/og-image.webp"
->
-```
+🟢 Netlify
 
-This improves how your portfolio appears when shared on social platforms and messaging applications.
+Another popular option for frontend applications.
 
----
+⚫ GitHub Pages
 
-# 🚀 13 — Push to GitHub
+Can also be used with an appropriate React deployment configuration.
 
-After customization:
+Choose the platform that works best for your project.
 
-```bash
+🔄 Update Your Portfolio
+
+After making changes:
+
 git add .
-```
 
 Create a commit:
 
-```bash
 git commit -m "Customize portfolio"
-```
 
-Push:
+Push your changes:
 
-```bash
 git push origin main
-```
 
----
+If your repository is connected to an automatic deployment platform, the new version can be deployed automatically.
 
-# 🌐 14 — Deploy with GitHub Pages
-
-Open your GitHub repository.
-
-Go to:
-
-```text
-Settings
-    ↓
-Pages
-```
-
-Under **Build and deployment**:
-
-```text
-Source: Deploy from a branch
-Branch: main
-Folder: / (root)
-```
-
-Click:
-
-**Save**
-
-Your portfolio will be published.
-
-Your URL will generally be:
-
-```text
-https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/
-```
-
-Example:
-
-```text
-https://john-doe.github.io/my-portfolio/
-```
-
----
-
-# ⚡ 15 — Update Your Portfolio
-
-After making future changes:
-
-```bash
-git add .
-git commit -m "Update portfolio"
-git push origin main
-```
-
-GitHub Pages will publish the updated version.
-
----
-
-# 📁 Recommended Project Structure
-
-```text
-portfolio/
-│
-├── index.html
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-├── assets/
-│   ├── profile.webp
-│   ├── project-1.webp
-│   ├── project-2.webp
-│   ├── project-3.webp
-│   └── og-image.webp
-│
-├── favicon.ico
-│
-└── README.md
-```
-
----
-
-# ✅ Pre-Deployment Checklist
-
-### Personal Identity
-
-* [ ] Name updated
-* [ ] Bio updated
-* [ ] Profile image replaced
-* [ ] Education updated
-* [ ] Experience updated
-* [ ] Location updated
-
-### Projects
-
-* [ ] Projects replaced
-* [ ] Project descriptions updated
-* [ ] Screenshots replaced
-* [ ] GitHub URLs tested
-* [ ] Live demo URLs tested
-
-### Skills
-
-* [ ] Skills updated
-* [ ] Technologies are accurate
-* [ ] No exaggerated claims
-
-### Contact
-
-* [ ] Email updated
-* [ ] GitHub updated
-* [ ] LinkedIn updated
-* [ ] Social links tested
-* [ ] Contact form tested
-
-### Website
-
-* [ ] Mobile tested
-* [ ] Desktop tested
-* [ ] Images optimized
-* [ ] SEO updated
-* [ ] Favicon updated
-* [ ] No broken links
-* [ ] No console errors
-
----
-
-# 🗂️ Deployment Alternatives
-
-GitHub Pages isn't your only option.
-
-### 🟣 Vercel
-
-Excellent for modern frontend frameworks and production deployments.
-
-### 🟢 Netlify
-
-Good option for static websites and frontend projects.
-
-### ⚫ GitHub Pages
-
-Simple and free for static HTML/CSS/JavaScript portfolios.
-
-Choose the platform that fits your project rather than blindly using one platform for everything.
-
----
-
-# 🤝 Contributing
+🤝 Contributing
 
 Contributions and improvements are welcome.
 
-### Workflow
+Workflow
 
-```bash
+Create a branch:
+
 git checkout -b feature/improvement
+
+Make your changes and commit:
 
 git add .
 
 git commit -m "Improve portfolio"
 
+Push your branch:
+
 git push origin feature/improvement
-```
 
 Then open a Pull Request.
 
----
+⚠️ Important Notes
 
-# ⚠️ Important Notes
-
-This project is a **portfolio template and learning resource**.
+This project is a portfolio template and learning resource.
 
 Before publishing your own version:
 
-* Replace the original content.
-* Replace all personal information.
-* Replace images.
-* Update project links.
-* Update social links.
-* Test every page.
-* Test the contact functionality.
-* Check mobile responsiveness.
-* Review third-party assets and licenses.
+Replace the original content.
+Replace personal information.
+Replace images.
+Update project links.
+Update social links.
+Configure your own contact form.
+Test every section.
+Test mobile responsiveness.
+Check third-party assets and licenses.
+Remove unused content.
+🔐 Privacy & Security
 
-### 🔐 Privacy
+Never place sensitive information inside frontend source code.
 
-Never place sensitive information such as:
+Do not commit:
 
-```text
 Passwords
 API Keys
 Private Tokens
 Secret Credentials
-Personal Identification Documents
-```
+Private Documents
 
-inside your frontend source code.
+Remember:
 
 Anything shipped to the browser should be considered publicly accessible.
 
----
+Environment variables help prevent accidentally committing configuration to Git, but frontend environment variables are not secret once included in the browser bundle.
 
-# 📄 License
+📄 License
 
-Check the repository's license before redistributing the template or third-party assets.
+This project is open source.
 
-Third-party libraries, fonts, icons and images may have their own licenses.
+See the repository's LICENSE file for the complete license terms.
 
----
+Third-party libraries, fonts, icons, images and other assets may have their own licenses.
+
+Always review the applicable licenses before redistributing third-party content.
+
+⭐ Support the Project
+
+If you find this template useful:
+
+⭐ Star the repository
+
+🍴 Fork or use the template
+
+🔧 Customize it
+
+🚀 Build your portfolio
+
+📢 Share your finished website
 
 <div align="center">
-
-# ⚡ Build. Customize. Deploy.
-
-### Your portfolio should represent **you**, not the template.
-
-<br>
-
-<a href="https://my-portfolio-gamma-roan-37.vercel.app/">
-  <img src="https://img.shields.io/badge/%E2%9A%A1%20VIEW%20LIVE%20PORTFOLIO-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Live Portfolio">
-</a>
+⚡ Build. Customize. Deploy.
+Your portfolio should represent you, not the template.
+<br> <a href="https://my-portfolio-gamma-roan-37.vercel.app/"> <img src="https://img.shields.io/badge/%E2%9A%A1%20VIEW%20LIVE%20DEMO-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Live Demo"> </a>
 
 <br><br>
 
-<a href="https://github.com/oxanuragofficial/my-portfolio">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BB%20VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Source">
-</a>
+<a href="https://github.com/oxanuragofficial/my-portfolio"> <img src="https://img.shields.io/badge/%F0%9F%92%BB%20VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Source"> </a>
 
 <br><br>
 
-### Created by
-
-<a href="https://github.com/oxanuragofficial">
-  <img src="https://img.shields.io/badge/%40oxanuragofficial-Follow%20on%20GitHub-0066FF?style=for-the-badge&logo=github&logoColor=white" alt="oxanuragofficial">
-</a>
+Created by
+<a href="https://github.com/oxanuragofficial"> <img src="https://img.shields.io/badge/%40oxanuragofficial-Follow%20on%20GitHub-0066FF?style=for-the-badge&logo=github&logoColor=white" alt="oxanuragofficial"> </a>
 
 <br><br>
 
-**Fork it → Make it yours → Ship it 🚀**
+Use it → Make it yours → Ship it 🚀
 
-</div>
+</div> 
