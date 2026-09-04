@@ -431,7 +431,6 @@ Only include profiles that you actually use.
 
 Replace:
 
-```text
 yourname@example.com
 ```
 
@@ -448,10 +447,138 @@ Contact links
 ```
 
 ### Contact forms
+# 🔑 09.1 — Configure Web3Forms API
 
-If the template contains a contact form, verify that the form actually sends messages before publishing it.
+This portfolio uses **Web3Forms** to handle contact form submissions.
 
-A beautiful contact form that doesn't work is worse than having no form.
+You need to create your own Web3Forms Access Key before the contact form can send messages.
+
+---
+
+## 🌐 Create Your Web3Forms Access Key
+
+Go to:
+
+**https://web3forms.com/**
+
+Enter the email address where you want to receive contact form messages.
+
+Web3Forms will provide you with an **Access Key**.
+
+Example:
+
+```text
+YOUR_WEB3FORMS_ACCESS_KEY
+📁 Create .env File
+
+Create a file named:
+
+.env
+
+in the root directory of the project, next to package.json.
+
+Example:
+
+portfolio/
+│
+├── src/
+├── public/
+├── package.json
+├── package-lock.json
+├── .gitignore
+├── .env
+└── README.md
+
+Add your Web3Forms Access Key:
+
+REACT_APP_WEB3FORMS_ACCESS_KEY=YOUR_WEB3FORMS_ACCESS_KEY
+
+Replace YOUR_WEB3FORMS_ACCESS_KEY with your actual Web3Forms Access Key.
+
+🔒 Keep Your .env File Private
+
+Make sure .env is included in .gitignore:
+
+.env
+❌ Never commit this:
+.env
+✅ Commit this instead:
+.env.example
+
+Create:
+
+.env.example
+
+with:
+
+REACT_APP_WEB3FORMS_ACCESS_KEY=YOUR_WEB3FORMS_ACCESS_KEY
+
+This allows other users of the template to know which environment variable they need without exposing your Access Key.
+
+🔄 Restart the Development Server
+
+After creating or changing .env, restart your React development server:
+
+npm start
+
+If the server is already running:
+
+Stop the server
+    ↓
+npm start
+🧪 Test the Contact Form
+
+Open your portfolio:
+
+http://localhost:3000
+
+Go to the Contact section.
+
+Fill in:
+
+Name
+Email
+Message
+
+Submit the form and verify that the message is received at the email address connected to your Web3Forms account.
+
+⚠️ Important Security Note
+
+The Web3Forms Access Key is used by the frontend contact form.
+
+Do not place passwords, private API keys, database credentials, or other sensitive secrets in frontend source code.
+
+For this template, each person using the portfolio should create and configure their own Web3Forms Access Key.
+
+Clone Template
+      ↓
+Create Web3Forms Account
+      ↓
+Get Access Key
+      ↓
+Add Key to .env
+      ↓
+Start Project
+      ↓
+Test Contact Form
+      ↓
+Deploy
+🚀 Deployment
+
+When deploying the portfolio, add the same environment variable to your hosting platform.
+
+Variable name:
+
+REACT_APP_WEB3FORMS_ACCESS_KEY
+
+Variable value:
+
+YOUR_WEB3FORMS_ACCESS_KEY
+
+Do not upload your .env file to GitHub.
+
+
+Available next action: :contentReference[oaicite:0]{index=0}
 
 ---
 
