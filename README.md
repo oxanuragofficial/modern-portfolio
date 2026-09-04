@@ -20,11 +20,13 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/React-18-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/JavaScript-ES6%2B-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/Three.js-3D-20232A?style=flat-square&logo=three.js&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/React%20Three%20Fiber-3D-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Responsive-Design-20232A?style=flat-square&logo=css3&logoColor=1572B6">
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18-0B1F33?style=flat-square&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-332B00?style=flat-square&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/Three.js-3D-151515?style=flat-square&logo=three.js&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/React%20Three%20Fiber-3D-0B1F33?style=flat-square&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Responsive-Design-0A2633?style=flat-square&logo=css3&logoColor=38BDF8">
+</p>
 
 </div>
 
