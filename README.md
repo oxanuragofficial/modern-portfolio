@@ -813,9 +813,6 @@ Third-party libraries, fonts, icons and images may have their own licenses.
 <a href="https://my-portfolio-gamma-roan-37.vercel.app/">
   <img src="https://img.shields.io/badge/%E2%9A%A1%20VIEW%20LIVE%20PORTFOLIO-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Live Portfolio">
 </a>
-
-<br><br>
-
 <a href="https://github.com/oxanuragofficial/my-portfolio">
   <img src="https://img.shields.io/badge/%F0%9F%92%BB%20VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Source">
 </a>
