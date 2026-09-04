@@ -1,0 +1,417 @@
+.experience {
+  padding: 80px 20px;
+  background: transparent;
+  position: relative;
+  overflow: hidden;
+}
+
+.experience h2 {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 60px;
+  color: #fff;
+  position: relative;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: fadeInDown 1s ease-out;
+}
+
+.experience h2::after {
+  content: '';
+  position: absolute;
+  bottom: -15px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100px;
+  height: 4px;
+  background: linear-gradient(90deg, #667eea, #764ba2);
+  border-radius: 2px;
+  box-shadow: 0 0 20px rgba(102, 126, 234, 0.5);
+}
+
+/* Timeline Container */
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 0;
+}
+
+/* Central Timeline Line */
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 4px;
+  height: 100%;
+  background: linear-gradient(180deg, 
+    rgba(102, 126, 234, 0.3) 0%, 
+    rgba(118, 75, 162, 0.8) 50%, 
+    rgba(102, 126, 234, 0.3) 100%);
+  border-radius: 2px;
+  box-shadow: 0 0 20px rgba(102, 126, 234, 0.4);
+}
+
+/* Timeline Items */
+.timeline-item {
+  position: relative;
+  width: 50%;
+  padding: 30px 50px;
+  box-sizing: border-box;
+  animation: fadeInUp 0.8s ease-out backwards;
+}
+
+.timeline-item:nth-child(1) { animation-delay: 0.1s; }
+.timeline-item:nth-child(2) { animation-delay: 0.2s; }
+.timeline-item:nth-child(3) { animation-delay: 0.3s; }
+.timeline-item:nth-child(4) { animation-delay: 0.4s; }
+.timeline-item:nth-child(5) { animation-delay: 0.5s; }
+
+.timeline-item.left {
+  left: 0;
+}
+
+.timeline-item.right {
+  left: 50%;
+}
+
+/* Timeline Dots */
+.timeline-dot {
+  position: absolute;
+  top: 40px;
+  width: 24px;
+  height: 24px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 50%;
+  box-shadow: 
+    0 0 0 4px #1a1a2e,
+    0 0 0 8px rgba(102, 126, 234, 0.3),
+    0 0 30px rgba(102, 126, 234, 0.6);
+  z-index: 2;
+  animation: pulse 2s ease-in-out infinite;
+}
+
+.timeline-item.left .timeline-dot {
+  right: -62px;
+}
+
+.timeline-item.right .timeline-dot {
+  left: -62px;
+}
+
+/* Pulse Animation for Dots */
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+    box-shadow: 
+      0 0 0 4px #1a1a2e,
+      0 0 0 8px rgba(102, 126, 234, 0.3),
+      0 0 30px rgba(102, 126, 234, 0.6);
+  }
+  50% {
+    transform: scale(1.1);
+    box-shadow: 
+      0 0 0 4px #1a1a2e,
+      0 0 0 12px rgba(102, 126, 234, 0.5),
+      0 0 40px rgba(102, 126, 234, 0.8);
+  }
+}
+
+/* Timeline Content Card */
+.timeline-content {
+  position: relative;
+  background: linear-gradient(135deg, rgba(30, 30, 46, 0.95) 0%, rgba(26, 26, 46, 0.95) 100%);
+  padding: 30px;
+  border-radius: 16px;
+  box-shadow: 
+    0 10px 40px rgba(0, 0, 0, 0.5),
+    0 0 1px rgba(102, 126, 234, 0.3);
+  border: 1px solid rgba(102, 126, 234, 0.2);
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  backdrop-filter: blur(10px);
+  text-align: left;
+}
+
+.timeline-content:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 
+    0 20px 60px rgba(102, 126, 234, 0.3),
+    0 0 2px rgba(102, 126, 234, 0.5);
+  border-color: rgba(102, 126, 234, 0.5);
+}
+
+/* Connector Line */
+.timeline-content::before {
+  content: '';
+  position: absolute;
+  top: 46px;
+  width: 30px;
+  height: 2px;
+  background: linear-gradient(90deg, rgba(102, 126, 234, 0.5), rgba(102, 126, 234, 0));
+}
+
+.timeline-item.left .timeline-content::before {
+  right: -30px;
+  background: linear-gradient(90deg, rgba(102, 126, 234, 0), rgba(102, 126, 234, 0.5));
+}
+
+.timeline-item.right .timeline-content::before {
+  left: -30px;
+}
+
+/* Experience Header */
+.experience-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.experience-title-section h3 {
+  font-size: 1.6rem;
+  color: #fff;
+  margin: 0 0 10px 0;
+  font-weight: 700;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.company-info {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 0.95rem;
+}
+
+.company {
+  color: #a0aec0;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.location {
+  color: #718096;
+  font-size: 0.9rem;
+}
+
+.experience-meta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 8px;
+}
+
+.period {
+  color: #cbd5e0;
+  font-weight: 600;
+  font-size: 0.95rem;
+  padding: 6px 14px;
+  background: rgba(102, 126, 234, 0.15);
+  border-radius: 20px;
+  border: 1px solid rgba(102, 126, 234, 0.3);
+}
+
+.type {
+  color: #a0aec0;
+  font-size: 0.85rem;
+  padding: 4px 12px;
+  background: rgba(118, 75, 162, 0.15);
+  border-radius: 20px;
+  border: 1px solid rgba(118, 75, 162, 0.3);
+}
+
+/* Description */
+.description {
+  color: #cbd5e0;
+  line-height: 1.7;
+  margin-bottom: 20px;
+  font-size: 1rem;
+}
+
+/* Achievements */
+.achievements {
+  margin-bottom: 20px;
+}
+
+.achievements h4 {
+  color: #fff;
+  font-size: 1.1rem;
+  margin-bottom: 12px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.achievements h4::before {
+  content: '🎯';
+  font-size: 1.2rem;
+}
+
+.achievements ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.achievements li {
+  color: #a0aec0;
+  line-height: 1.7;
+  padding: 10px 0 10px 30px;
+  position: relative;
+  font-size: 0.95rem;
+  transition: all 0.3s ease;
+}
+
+.achievements li:hover {
+  color: #cbd5e0;
+  transform: translateX(5px);
+}
+
+.achievements li::before {
+  content: '▹';
+  position: absolute;
+  left: 0;
+  color: #667eea;
+  font-size: 1.4rem;
+  line-height: 1.7;
+}
+
+/* Technologies */
+.technologies {
+  padding-top: 20px;
+  border-top: 1px solid rgba(102, 126, 234, 0.2);
+}
+
+.technologies strong {
+  color: #fff;
+  font-size: 1rem;
+  display: block;
+  margin-bottom: 12px;
+}
+
+.tech-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.tech-tag {
+  background: linear-gradient(135deg, rgba(102, 126, 234, 0.2) 0%, rgba(118, 75, 162, 0.2) 100%);
+  color: #cbd5e0;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  border: 1px solid rgba(102, 126, 234, 0.3);
+  transition: all 0.3s ease;
+  cursor: default;
+}
+
+.tech-tag:hover {
+  background: linear-gradient(135deg, rgba(102, 126, 234, 0.3) 0%, rgba(118, 75, 162, 0.3) 100%);
+  border-color: rgba(102, 126, 234, 0.5);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+/* Animations */
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .experience {
+    padding: 60px 15px;
+  }
+
+  .experience h2 {
+    font-size: 2.2rem;
+  }
+
+  .timeline::before {
+    left: 30px;
+  }
+
+  .timeline-item {
+    width: 100%;
+    padding: 20px 20px 20px 70px;
+    left: 0 !important;
+  }
+
+  .timeline-dot {
+    left: 18px !important;
+    right: auto !important;
+  }
+
+  .timeline-content::before {
+    left: -40px !important;
+    right: auto !important;
+    background: linear-gradient(90deg, rgba(102, 126, 234, 0), rgba(102, 126, 234, 0.5)) !important;
+  }
+
+  .experience-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .experience-meta {
+    align-items: flex-start;
+  }
+
+  .experience-title-section h3 {
+    font-size: 1.3rem;
+  }
+
+  .achievements li {
+    padding-left: 25px;
+  }
+}
+
+@media (max-width: 480px) {
+  .experience h2 {
+    font-size: 1.8rem;
+  }
+
+  .timeline-content {
+    padding: 20px;
+  }
+
+  .experience-title-section h3 {
+    font-size: 1.2rem;
+  }
+
+  .tech-tag {
+    font-size: 0.8rem;
+    padding: 6px 12px;
+  }
+}
