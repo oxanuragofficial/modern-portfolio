@@ -38,7 +38,7 @@
 
 Use this template as a starting point, replace the default content with your own information, customize the design, add your projects and deploy your portfolio.
 
-```text
+
 USE TEMPLATE  →  CUSTOMIZE  →  TEST  →  DEPLOY  →  SHARE
 </div>
 ✨ Why This Template?
