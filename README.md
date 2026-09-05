@@ -40,7 +40,6 @@
 
 Fork this project, replace the content with your own information, customize the design, add your projects, and deploy your personal portfolio.
 
-```text
 FORK  →  CUSTOMIZE  →  TEST  →  DEPLOY  →  SHARE
 ```
 
@@ -243,7 +242,7 @@ Find the existing portfolio information and replace it with yours.
 
 Update:
 
-```text
+
 Your Name
 Your Introduction
 Your Bio
@@ -255,11 +254,10 @@ Your Email
 Your GitHub
 Your LinkedIn
 Your Social Links
-```
 
 Example:
 
-```html
+
 <h1>Your Name</h1>
 
 <p>
