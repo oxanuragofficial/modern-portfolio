@@ -41,7 +41,7 @@
 Fork this project, replace the content with your own information, customize the design, add your projects, and deploy your personal portfolio.
 
 FORK  →  CUSTOMIZE  →  TEST  →  DEPLOY  →  SHARE
-```
+
 
 </div>
 
@@ -465,7 +465,6 @@ Web3Forms will provide you with an **Access Key**.
 
 Example:
 
-```text
 YOUR_WEB3FORMS_ACCESS_KEY
 📁 Create .env File
 
