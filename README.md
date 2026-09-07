@@ -9,15 +9,11 @@ A modern, responsive and customizable portfolio website template built with Reac
 <a href="https://my-portfolio-gamma-roan-37.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20LIVE%20WEBSITE-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Website">
 </a>
-
- 
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficial/modern-portfolio" target="_blank">
   <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
 </a>
-
- 
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficial" target="_blank">
   <img src="https://img.shields.io/badge/👤%20MY%20PROFILE-0066FF?style=for-the-badge&logo=github&logoColor=white" alt="My Profile">
 </a>
@@ -38,8 +34,6 @@ This is a modern personal portfolio website template designed for developers, st
 
 The project is built with React and includes interactive 3D visuals using Three.js and React Three Fiber.
 
-Download the project, replace the existing portfolio content with your own information, run it locally and check your changes before deployment.
-
 🧰 Technologies Used
 
 React 18
@@ -56,65 +50,65 @@ React Scripts
 
 Web3Forms — contact form submission
 
-🌐 Live Website
-
-<a href="https://my-portfolio-gamma-roan-37.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20OPEN%20LIVE%20WEBSITE-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Live Website">
-</a>
-
 📥 Download & Run Locally
 
-1. Download the ZIP
+1️⃣ Download the Project
 
-Go to the repository on GitHub:
+Go to the repository on GitHub.
 
-Code → Download ZIP
+GitHub → Code → Download ZIP
 
 Extract the downloaded ZIP file on your computer.
 
-2. Open the Project in Terminal
+Important: Do not run npm install from the ZIP file itself. First extract the project completely.
 
-Open the extracted project folder.
+2️⃣ Open the Extracted Project in Terminal
+
+Open the extracted modern-portfolio folder.
 
 On Windows:
 
-Right click → Open in Terminal
+Right click inside the folder → Open in Terminal
 
-Or use PowerShell / Command Prompt:
+Or open PowerShell / Command Prompt and use:
 
-cd path/to/modern-portfolio
+cd "C:\path\to\modern-portfolio"
 
-3. Install Dependencies
+3️⃣ Install Dependencies
 
-Run:
+Run this command in the project folder:
 
 npm install
 
-4. Change the Portfolio Content
+4️⃣ Open the Project in VS Code
 
-Open the project in VS Code:
+Run:
 
 code .
 
-Go to the components folder and replace the existing portfolio content with your own information.
+Then open the components folder.
+
+Replace the existing portfolio content with your own information.
 
 Update your personal details, portfolio text, projects, links and other content inside the relevant component files.
 
-5. Run Locally
+5️⃣ Run the Website Locally
 
 Start the React development server:
 
 npm start
 
-The website will normally run at:
+The terminal should show the local development address.
+
+Open:
 
 http://localhost:3000
 
-If it does not open automatically, open the address in your browser.
+6️⃣ Check Your Website
 
-6. Check the Website
+Open http://localhost:3000 in your browser.
 
-Open the local website and check that your updated portfolio content is displayed correctly.
+Check that all your updated portfolio content is displayed correctly.
 
 <div align="center">
 
@@ -123,11 +117,13 @@ Open the local website and check that your updated portfolio content is displaye
 <a href="https://my-portfolio-gamma-roan-37.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20LIVE%20WEBSITE-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Website">
 </a>
-
- 
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficial/modern-portfolio" target="_blank">
   <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/oxanuragofficial" target="_blank">
+  <img src="https://img.shields.io/badge/👤%20MY%20PROFILE-0066FF?style=for-the-badge&logo=github&logoColor=white" alt="My Profile">
 </a>
 
 <br><br>
