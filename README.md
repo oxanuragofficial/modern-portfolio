@@ -195,9 +195,9 @@ GitHub Pages
 ## 01 — Fork the Repository
 
 Open the repository and click:
-
+```
 **Fork → Create Fork**
-
+```
 You now have your own copy that you can modify without changing the original project.
 
 ---
@@ -242,7 +242,7 @@ Find the existing portfolio information and replace it with yours.
 
 Update:
 
-
+```
 Your Name
 Your Introduction
 Your Bio
@@ -411,7 +411,7 @@ Example:
 ```
 
 You can include:
-
+```
 * GitHub
 * LinkedIn
 * X
@@ -435,7 +435,7 @@ yourname@example.com
 with your actual professional email.
 
 Update:
-
+```
 
 Email
 GitHub
@@ -456,9 +456,9 @@ You need to create your own Web3Forms Access Key before the contact form can sen
 ## 🌐 Create Your Web3Forms Access Key
 
 Go to:
-
+```
 **https://web3forms.com/**
-
+```
 Enter the email address where you want to receive contact form messages.
 
 Web3Forms will provide you with an **Access Key**.
@@ -469,13 +469,13 @@ YOUR_WEB3FORMS_ACCESS_KEY
 📁 Create .env File
 
 Create a file named:
-
+```
 .env
-
+```
 in the root directory of the project, next to package.json.
 
 Example:
-
+```
 portfolio/
 │
 ├── src/
@@ -485,11 +485,11 @@ portfolio/
 ├── .gitignore
 ├── .env
 └── README.md
-
+```
 Add your Web3Forms Access Key:
-
+```
 REACT_APP_WEB3FORMS_ACCESS_KEY=YOUR_WEB3FORMS_ACCESS_KEY
-
+```
 Replace YOUR_WEB3FORMS_ACCESS_KEY with your actual Web3Forms Access Key.
 
 🔒 Keep Your .env File Private
@@ -503,21 +503,21 @@ Make sure .env is included in .gitignore:
 .env.example
 
 Create:
-
+```
 .env.example
-
+```
 with:
-
+```
 REACT_APP_WEB3FORMS_ACCESS_KEY=YOUR_WEB3FORMS_ACCESS_KEY
-
+```
 This allows other users of the template to know which environment variable they need without exposing your Access Key.
 
 🔄 Restart the Development Server
 
 After creating or changing .env, restart your React development server:
-
+```
 npm start
-
+```
 If the server is already running:
 
 Stop the server
@@ -526,17 +526,17 @@ npm start
 🧪 Test the Contact Form
 
 Open your portfolio:
-
+```
 http://localhost:3000
-
+```
 Go to the Contact section.
 
 Fill in:
-
+```
 Name
 Email
 Message
-
+```
 Submit the form and verify that the message is received at the email address connected to your Web3Forms account.
 
 ⚠️ Important Security Note
@@ -546,7 +546,7 @@ The Web3Forms Access Key is used by the frontend contact form.
 Do not place passwords, private API keys, database credentials, or other sensitive secrets in frontend source code.
 
 For this template, each person using the portfolio should create and configure their own Web3Forms Access Key.
-
+```
 Clone Template
       ↓
 Create Web3Forms Account
@@ -561,13 +561,13 @@ Test Contact Form
       ↓
 Deploy
 🚀 Deployment
-
+```
 When deploying the portfolio, add the same environment variable to your hosting platform.
 
 Variable name:
-
+```
 REACT_APP_WEB3FORMS_ACCESS_KEY
-
+```
 Variable value:
 
 YOUR_WEB3FORMS_ACCESS_KEY
@@ -637,7 +637,7 @@ F12
 ```
 
 Check:
-
+```
 * Navigation
 * Buttons
 * Text
@@ -647,7 +647,7 @@ Check:
 * Spacing
 * Animations
 * Overflow
-
+```
 ### ❌ Avoid
 
 ```text
@@ -804,7 +804,7 @@ portfolio/
 # ✅ Pre-Deployment Checklist
 
 ### Personal Identity
-
+```
 * [ ] Name updated
 * [ ] Bio updated
 * [ ] Profile image replaced
@@ -844,22 +844,22 @@ portfolio/
 * [ ] No broken links
 * [ ] No console errors
 
----
+```
 
 # 🗂️ Deployment Alternatives
 
 GitHub Pages isn't your only option.
-
+```
 ### 🟣 Vercel
-
+```
 Excellent for modern frontend frameworks and production deployments.
-
+```
 ### 🟢 Netlify
-
+```
 Good option for static websites and frontend projects.
-
+```
 ### ⚫ GitHub Pages
-
+```
 Simple and free for static HTML/CSS/JavaScript portfolios.
 
 Choose the platform that fits your project rather than blindly using one platform for everything.
