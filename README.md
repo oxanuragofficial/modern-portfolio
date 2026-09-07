@@ -436,7 +436,7 @@ with your actual professional email.
 
 Update:
 
-```text
+
 Email
 GitHub
 LinkedIn
