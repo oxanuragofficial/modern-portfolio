@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/%E2%9A%A1%20LIVE%20DEMO-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
 </a>
 &nbsp;
-<a href="https://github.com/oxanuragofficial/my-portfolio">
+<a href="https://github.com/oxanuragofficial/modern-portfolio">
   <img src="https://img.shields.io/badge/%F0%9F%92%BB%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
 </a>
 &nbsp;
